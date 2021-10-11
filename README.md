@@ -12,72 +12,66 @@
 ### Tabelas verdade
 ### Porta AND (E)
 X= A.B
-| A | B |   | X |
-|---|---|---|---|
-| 0 | 0 |   | 0 |
-| 0 | 1 |   | 0 |
-| 1 | 0 |   | 0 |
-| 1 | 1 |   | 1 |
-|   |   |   |   |
+| A | B | X |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
 - O resultado só será verdadeiro se todas as entradas forem verdadeiras.
 
 ### Porta OR (OU)
 X= A + B
-| A | B |   | X |
-|---|---|---|---|
-| 0 | 0 |   | 0 |
-| 0 | 1 |   | 1 |
-| 1 | 0 |   | 1 |
-| 1 | 1 |   | 1 |
-|   |   |   |   |
+| A | B | X |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
 - O resultado só será falso se todas as entradas forem falsas.
 
 ### Porta NAND (NÃO E)
 
-| A | B |   | X |
-|---|---|---|---|
-| 0 | 0 |   | 1 |
-| 0 | 1 |   | 1 |
-| 1 | 0 |   | 1 |
-| 1 | 1 |   | 0 |
-|   |   |   |   |
+| A | B | X |
+|---|---|---|
+| 0 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
 - A porta NAND é o inverso (negação) da porta END.
 
 ### Porta NOR (NÃO OU)
 
-| A | B |   | X |
-|---|---|---|---|
-| 0 | 0 |   | 1 |
-| 0 | 1 |   | 0 |
-| 1 | 0 |   | 0 |
-| 1 | 1 |   | 0 |
-|   |   |   |   |
+| A | B | X |
+|---|---|---|
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 0 |
 - A porta NOR é o inverso (negação) da porta OR.
 
 ### Porta XOR (OU Exclusivo)
 
-| A | B |   | X |
-|---|---|---|---|
-| 0 | 0 |   | 0 |
-| 0 | 1 |   | 1 |
-| 1 | 0 |   | 1 |
-| 1 | 1 |   | 0 |
-|   |   |   |   |
+| A | B | X |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
 - A porta XOR (Exclusivo) compara os bits, ela produz saída 0 quando todos os bits de entrada são iguais, caso contrário o saída será 1.
 
 ### Porta XNOR
 
-| A | B |   | X |
-|---|---|---|---|
-| 0 | 0 |   | 1 |
-| 0 | 1 |   | 0 |
-| 1 | 0 |   | 0 |
-| 1 | 1 |   | 1 |
-|   |   |   |   |
+| A | B | X |
+|---|---|---|
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
 - A porta XNOR é o inverso (negação) da porta XOR. A porta XNOR é a função igualmente, a saída é 1 sempre que A=B.
 
 Precedência de Operadores lógico
-|          |                
+| Operador |                
 |----------|
 |    ( )   |  
 |    NOT   |  
@@ -127,7 +121,7 @@ Precedência de Operadores lógico
 |    <=    |  Menor ou igual a         |
 |    >     |  Maior que                |
 |    >=    |  Maior ou igual a         |
-|          |                           |
+
 
 ### Operadores Lógicos
 |     |     | 
@@ -135,7 +129,7 @@ Precedência de Operadores lógico
 | E   | AND |
 | OU  | OR  |
 | NÃO | NOT |
-|     |     |
+
 
 ### ***Precedência dos operadores lógico:***
 |Operador | Descrição | Prioridade |
@@ -143,4 +137,4 @@ Precedência de Operadores lógico
 | E       |    AND    |     3      |
 | OU      |    OR     |     2      |
 | NÃO     |   NOT     |     1      |
-|         |           |            |
+
