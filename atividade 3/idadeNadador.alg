@@ -1,4 +1,5 @@
 algoritmo "idadeNadador"
+// Funcao : Algoritmo que que, dada a idade de um nadador. Classifique-o de acordo com as categorias.
 // Autor : Delsivan
 // Data : 21/09/2021
 var
