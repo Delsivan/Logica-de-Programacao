@@ -139,6 +139,18 @@ Precedência de Operadores lógico
 | NÃO     |   NOT     |     1      |
 
 
+### 🛠 Tecnologias
+
+Foram utilizadas as seguintes tecnologias: 
+
+- [Editor de Portugol - Visualg versão 2.0]
+ 
+
+### ❗️ Links & Recursos Importantes
+- ✅ [Manual do Visualg](http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5201/Visualg2_manual.pdf)
+
+
+
 ### :question: Dúvidas
 Em caso de dúvidas, entre em contato.
 - :email: delsivannascimentovieira@gmail.com
