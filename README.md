@@ -151,6 +151,7 @@ Foram utilizadas as seguintes tecnologias:
 - ✅ [Manual do Visualg](http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5201/Visualg2_manual.pdf)
 
 ### 📚 Sites para estudar programação 
+- ✅ [HackerRank](https://www.hackerrank.com/)
 - ✅ [DIO](https://www.dio.me/)
 - ✅ [Udemy](https://www.udemy.com/)
 - ✅ [W3schools](https://www.w3schools.com/)
