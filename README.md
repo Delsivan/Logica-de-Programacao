@@ -145,10 +145,12 @@ Foram utilizadas as seguintes tecnologias:
 
 - [Editor de Portugol - Visualg versão 2.0](https://visualg3.com.br/)
 - [Lucidchart](https://lucid.app/documents#/dashboard)
+- [Flowgorithm](http://www.flowgorithm.org/)
  
 
 ### ❗️ Links & Recursos Importantes
 - ✅ [Manual do Visualg](http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5201/Visualg2_manual.pdf)
+- ✅ [Documentação do Flowgorithm](http://www.flowgorithm.org/documentation/index.html)
 
 ### 📚 Sites para estudar programação 
 - ✅ [HackerRank](https://www.hackerrank.com/)
