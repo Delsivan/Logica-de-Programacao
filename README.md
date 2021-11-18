@@ -143,7 +143,7 @@ Precedência de Operadores lógico
 
 Foram utilizadas as seguintes tecnologias: 
 
-- [Editor de Portugol - Visualg versão 2.0]
+- Editor de Portugol - Visualg versão 2.0
  
 
 ### ❗️ Links & Recursos Importantes
@@ -152,6 +152,7 @@ Foram utilizadas as seguintes tecnologias:
 ### 📚 Sites para estudar programação 
 - ✅ [DIO](https://www.dio.me/)
 - ✅ [Udemy](https://www.udemy.com/)
+- ✅ [W3schools](https://www.w3schools.com/)
 
 ### :question: Dúvidas
 Em caso de dúvidas, entre em contato.
