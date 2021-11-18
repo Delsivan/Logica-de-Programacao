@@ -143,7 +143,7 @@ Precedência de Operadores lógico
 
 Foram utilizadas as seguintes tecnologias: 
 
-- Editor de Portugol - Visualg versão 2.0
+- [Editor de Portugol - Visualg versão 2.0](https://visualg3.com.br/)
 - [Lucidchart](https://lucid.app/documents#/dashboard)
  
 
