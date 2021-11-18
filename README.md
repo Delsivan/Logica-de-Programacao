@@ -149,7 +149,9 @@ Foram utilizadas as seguintes tecnologias:
 ### ❗️ Links & Recursos Importantes
 - ✅ [Manual do Visualg](http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5201/Visualg2_manual.pdf)
 
-
+### 📚 Sites para estudar programação 
+- ✅ [DIO](https://www.dio.me/)
+- ✅ [Udemy](https://www.udemy.com/)
 
 ### :question: Dúvidas
 Em caso de dúvidas, entre em contato.
