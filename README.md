@@ -144,6 +144,7 @@ Precedência de Operadores lógico
 Foram utilizadas as seguintes tecnologias: 
 
 - Editor de Portugol - Visualg versão 2.0
+- [Lucid](https://lucid.app/documents#/dashboard)
  
 
 ### ❗️ Links & Recursos Importantes
