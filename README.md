@@ -4,8 +4,8 @@
 - Estrutura sequencial
 - Estrutura condicional
 - Estruturas repetitivas
-- Vetores
-- Matrizes
+- [Vetores](https://github.com/Delsivan/Logica-de-Programacao/tree/main/atividade_9)
+- [Matrizes](https://github.com/Delsivan/Logica-de-Programacao/tree/main/atividade_10)
 
 ### Introdução
 
